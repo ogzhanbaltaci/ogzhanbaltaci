@@ -20,7 +20,7 @@
 
 <table>
   <tr>
-    <th><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogzhanbaltaci&show_icons=true&locale=en&layout=compact" alt="ogzhanbaltaci" /></p></th>
+    <th><p><img align="left" src="" alt="ogzhanbaltaci" /></p></th>
     <th><p>&nbsp;<img align="center-right" src="https://github-readme-stats.vercel.app/api?username=ogzhanbaltaci&show_icons=true&locale=en" alt="ogzhanbaltaci" /></p> 
 </th>
   </tr>
