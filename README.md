@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogzhanbaltaci&label=Profile%20views&color=0e75b6&style=flat" alt="ogzhanbaltaci" /> </p>
 
-- 🌱 I’m currently learning **C# and Unity 2D**
+- 🌱 I’m currently learning **C# and Unity**
 
 - 📫 How to reach me **ogzhan.baltaci@gmail.com**
 
